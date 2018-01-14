@@ -1,5 +1,5 @@
 // Write your code in this file!
-scuberGreetForFeet(dist) {
+scuberGreetingForFeet(dist) {
   switch (dist) {
     case dist < 400:
       'This one is on me';
