@@ -1,6 +1,6 @@
 // Write your code in this file!
 
-const response
+const response;
 
 function scuberGreetingForFeet(dist) {
   if(dist <= 400) {
