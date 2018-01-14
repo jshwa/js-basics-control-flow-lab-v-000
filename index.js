@@ -4,7 +4,9 @@ let response;
 function scuberGreetingForFeet(dist) {
   if(dist <= 400) {
     return 'This one is on me!';
-  } else if(dist > 2000) {
+  } else if(dist > 2000 && dist < 2500) {
     return 'I will gladly take your thirty bucks.'
+  } else {
+    return "No can do."
   }
 }
